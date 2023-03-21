@@ -3,6 +3,8 @@
 Hexalter v0.1
 -------------
 
+(This is a reupload, I couldn't find the source code on GitHub so I decided to publish it here)
+
 This is a quick (but hopefully not dirty) implementation of a primitive hex alterer.  Usage
 is very simple:
 
